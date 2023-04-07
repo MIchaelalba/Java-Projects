@@ -2,6 +2,8 @@ package org.example;
 
 public class Concatenar_texto {
     public static void concatenar(){
+        System.out.printf("Concatenar texto");
+
         String nome = "Michael";
         String sobrenome = "Alba";
         int idade = 29;
